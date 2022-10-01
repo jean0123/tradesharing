@@ -1,1 +1,1 @@
-# tradesharing
+# Para ejecutar el projecto, basta con hacer npm install.
